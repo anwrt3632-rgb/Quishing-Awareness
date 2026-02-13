@@ -1,0 +1,32 @@
+index.html
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Security Alert</title>
+  <meta charset="UTF-8">
+  <meta http-equiv="refresh" content="5;url=https://sites.google.com/view/quishing-awareness-norah/home">
+  <style>
+    body {
+      background-color: black;
+      color: red;
+      font-family: Arial;
+      text-align: center;
+      padding-top: 80px;
+    }
+    h1 {
+      font-size: 50px;
+    }
+    p {
+      font-size: 20px;
+      color: white;
+    }
+  </style>
+</head>
+
+<body>
+  <h1>⚠ SECURITY ALERT ⚠</h1>
+  <p>Your device has been scanned...</p>
+  <p>Tracking your location and device info...</p>
+  <p style="color:yellow;">Redirecting you safely in 5 seconds...</p>
+</body>
+</html>
